@@ -45,7 +45,7 @@ cafe-platform-backend
 ├── your-firebase-service-account.json # Firebase 서비스 계정 키
 ```
 
-## ⚙설치 및 실행 방법
+## 설치 및 실행 방법
 
 1. 레포지토리를 클론합니다:
 

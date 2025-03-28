@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cafe-plarform",
+  "private_key_id": "9f46d3525ba3e5bbb39c177049d680ce93ef964b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDg0aPRfsHwoNtY\n6C+LP58HCPmWNMan3PS90SLWFw3DvgxNy+ArkL0y1W0D9q21VDYo85zPFXBE+s0Z\nO7Srvv4vPVHmpu3r035Roi12raxQojTZvFJrRCad8DQQJqgSUjuUR/zEDr8QGgsA\n5nFoUVaciqHV1SsFFvMaHYXTJ1ZxVlhZvijmRQaPZmANj8//86Z1c5NocUp9p38U\nFeb80S2JpmJmnR17Rn6ZSFqiTw6xSWTAGETwbsjPkomVoR340pBnBEs5srg5+8YE\nnej30QlBJRXhUHN/xyu1aK99D9jW5NbxiVZBBtTR96WrrQKdV+fwo6JWQKpLK3AJ\nFv27L2RFAgMBAAECggEAC+c69yOw5TVAb9xj717oDrFhtPDTPNOKLMZW2RgsN9CH\nP747PqtBl+BXeYsqcYGa2CplLiIKiUhwgApv0NvCWGIfhOi9Nkwtcb6LuC8kArqX\n4EMO577aaZMseoIayio1nS6o5NY1X7Gf+AVQ0gRjzigulI8JDFJa/udlwhiLhIwY\n+l5MxDDnbnIW5LWL0JA2HFaquuBtmylmLKP43WP7PeF5W4jNwTnqjEIG5SDy4Nwu\nH6Ep2ErlROZMVPlKSG77EYHPMhN8fczWOj9DJPTyUj4NphuMO/14sqMMLO1tiIv7\nBJs48OBxcx5n7ZQ3dosL5Zn0UOSc1qLFh9JkO4TqQQKBgQD1jU1PWjA2Eej7sWNt\nqrGDCm4cWj02eUrTCGQhV4Q+wph12YN3SVdNsJkOnCcHLeSp0fknu+7thwUi+KJj\nxwbxrgYMcJ9TFyKWI/+N87+NWqMiIbnrzk51ybC+SqLpaGABKI7Hi+31qngSJvbK\na+S+ZYoCLkiceH5GLUYNqa+jQQKBgQDqYoBLz1p0/kQY/kc2a+ftT63FGJT/cfBa\n3QznmXIxUO17QPG9NhV/exoaO0ZoEIZID6aD4y+D2SNSvCHYPGmAq/S4HsKtlRrP\nQqA7iKnWaS0JZW4pPl0+3hHznwSDU2FWYl4yKL63e3ea2RiJWnA7696dw3P9CFwI\nj1VoD5g0BQKBgQCTm5FxtiFtH28Sfhvq/MUgpNB0MrrBWEBmg5DNijJxF8FWdp7U\nwj288f/QDIZZhnkCrLo97HdASf4Ie7YCjM3b0mTIbZsY87tSzej9iB0J+AZAqk19\nNtNrcwbQHUW5UYkEqUDLK46sMwFiyBFqtVkYKym/DduQU850mRqXc/2lAQKBgBN4\nQzgI7XayeG2rEbdPl2B7MfAhbp8Zk+G4Yw4KDRZTpqaKaopRJ9ADJdPwAJU8aisq\nQabLBHNrYifJQPZ5bjomDpoM1BcfP67f1fecDp+k9PzG1DPQ3mYOhGc8Wl+eWYOX\ngEOiZtVPCExwpD0kqhYQLdnlFol6XErJvUp7oSURAoGAQpr1OEIohJdtxAi2Inb+\nWwdAZ/R4E2rfXwG+KIH548ClDSxd99CBK5iYTNdTkbxSHt0YQ0nOVRIC5RYK+hjU\nOfdp3eoEo0c8zZxgJIOnzYNvL4y1eMkMUmD8AErv6M3sRPCGUsqWSn2rFHxwzNft\n/x1do5APqjqDuVJqux6rRO8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@cafe-plarform.iam.gserviceaccount.com",
+  "client_id": "117431443144805890456",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40cafe-plarform.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
