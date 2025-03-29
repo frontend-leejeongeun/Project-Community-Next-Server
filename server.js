@@ -18,12 +18,16 @@ admin.initializeApp({
 
 const db = admin.firestore();
 
-app.use(cors());
+// ✅ CORS 설정: Vercel 배포 주소만 허용
+const corsOptions = {
+  origin: "https://project-community-next-client.vercel.app",
+  credentials: true,
+};
+
+app.use(cors(corsOptions));
 app.use(express.json());
 
-// ✅ 여기에 기존 API 라우트 다 그대로 붙이면 돼
-
-// 간단한 루트 라우터
+// ✅ 간단한 루트 라우터
 app.get("/", (req, res) => {
   res.send("🚀 Firebase 백엔드 서버 실행 중!");
 });
