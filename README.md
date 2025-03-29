@@ -39,10 +39,8 @@
 
 ```plaintext
 cafe-platform-backend
-├── .env                             # 환경 변수 파일
 ├── server.js                        # Express 서버 진입점
 ├── package.json                     # 프로젝트 설정
-├── your-firebase-service-account.json # Firebase 서비스 계정 키
 ```
 
 ## 설치 및 실행 방법
