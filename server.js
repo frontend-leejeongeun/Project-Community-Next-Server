@@ -120,6 +120,21 @@ app.get("/api/qna/:id/comments", async (req, res) => {
   }
 });
 
+app.get("/api/posts/:postId/comments/count", async (req, res) => {
+  try {
+    const postId = req.params.postId;
+    const snapshot = await db
+      .collection("posts")
+      .doc(postId)
+      .collection("comments")
+      .get();
+    const count = snapshot.size;
+    res.status(200).json({ count });
+  } catch (err) {
+    res.status(500).json({ error: "댓글 개수 불러오기 실패" });
+  }
+});
+
 app.post("/api/qna/:id/comments", async (req, res) => {
   try {
     const comment = req.body;
