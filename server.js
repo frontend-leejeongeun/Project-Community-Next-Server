@@ -183,6 +183,6 @@ app.delete("/api/qna/:id/comments/:commentId", async (req, res) => {
 });
 
 // 🔥 서버 실행
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
   console.log(`🚀 백엔드 서버 실행: http://localhost:${PORT}`);
 });

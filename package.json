@@ -19,6 +19,7 @@
     "ntp-client": "^0.5.3"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.7.9",
     "nodemon": "^3.1.9"
   }
 }
