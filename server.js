@@ -4,7 +4,7 @@ const cors = require("cors");
 const admin = require("firebase-admin");
 
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 3000;
 
 // 🔐 환경변수로부터 Firebase 키를 base64로 읽고 파싱
 const decodedKey = Buffer.from(process.env.FIREBASE_KEY, "base64").toString(
